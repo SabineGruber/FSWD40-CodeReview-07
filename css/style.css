@@ -1,9 +1,9 @@
 .card-container {
-	border: 2px solid lightblue;
-	border-radius: 0.3em;
-	text-align: center;
+    border: 2px solid lightblue;
+    border-radius: 0.3em;
+    text-align: center;
 }
 
 img {
-	width: 100%;
+    width: 100%;
 }
